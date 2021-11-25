@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Eunjin%20Heo&fontSize=60&fontColor=000000&customColorList=0,2,2,5,30,12,16,18,0)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Eunjin%20Heo&fontSize=60&fontColor=000000&customColorList=3)
 
 
 <h3 align="center">🌈 Contact Me 🌈</h3>
