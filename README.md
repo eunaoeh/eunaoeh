@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Mariadb-1239EA?style=flat-square&logo=Mariadb&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> 👩‍💻 Experiences </h3>
+<h3 align="center"> 👩‍💻 Experiences 👩‍💻 </h3>
 <p align="center">
   <li align ="center">Naver Boostcamp AI Tech (2021.08 ~ 2021.12)</li>
   <li align ="center">2021 SKKU AI Bookathon 대상 (2021.11)</li>
