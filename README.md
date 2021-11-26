@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:eunjinhh131@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eunjinhh131@gmail.com"/></a>
 </p>
-
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Mongodb-092E20?style=flat-square&logo=Mongodb&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mariadb-1239EA?style=flat-square&logo=Mariadb&logoColor=white"/></a>&nbsp 
 </p>
-
+<br>
 <h3 align="center"> 👩‍💻 Experiences </h3>
 <p align="center">
   <li align ="center">Naver Boostcamp AI Tech (2021.08 ~ 2021.12)</li>
