@@ -23,6 +23,15 @@
   <img src="https://img.shields.io/badge/Mariadb-1239EA?style=flat-square&logo=Mariadb&logoColor=white"/></a>&nbsp 
 </p>
 
+### 👩‍💻 Experiences
+---
+- Naver Boostcamp AI Tech (2021.08 ~ 2021.12)
+- 2021 SKKU AI Bookathon 대상 (2021.11)
+- SI Analytics, Intern (2020.09 ~ 2021.02)
+- Hanyang University, Graduation Project 대상 (2020.03 ~ 2020.10)
+- KAIST Madcamp (2020.07 ~ 2020.08)
+- CIT Coding Academy, 강사 (2019.06 ~ 2019.12)
+- Hanyang University, Computer Software (2017.03 ~ 2022.02)
 
 <!--
 **eunaoeh/eunaoeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
