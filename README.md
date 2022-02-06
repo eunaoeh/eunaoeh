@@ -22,13 +22,14 @@
 
 <h3 align="center"> 👩‍💻 Experiences 👩‍💻 </h3>
 <p align="center">
-  <li align ="center">Naver Boostcamp AI Tech (2021.08 ~ 2021.12)</li>
-  <li align ="center">2021 SKKU AI Bookathon 대상 (2021.11)</li>
-  <li align ="center">SI Analytics, Intern (2020.09 ~ 2021.02)</li>
-  <li align ="center">Hanyang University, Graduation Project 대상 (2020.03 ~ 2020.10)</li>
+  <li align ="center">Naver Boostcamp AI Tech 2nd, Trainee (2021.08 ~ 2021.12)</li>
+  <li align ="center">2021 SKKU AI Bookathon, 1st place (2021.11)</li>
+  <li align ="center">2021 Summer Samsung SDS Algorithm Class (2021.08 ~ 2021.08)</li>
+  <li align ="center">SI Analytics, Internship (2020.09 ~ 2021.02)</li>
+  <li align ="center">Hanyang University, Capstone Project Competition, 1st place (2020.03 ~ 2020.10)</li>
   <li align ="center">KAIST Madcamp (2020.07 ~ 2020.08) </li>
-  <li align ="center">CIT Coding Academy, 강사 (2019.06 ~ 2019.12)</li>
-  <li align ="center">Hanyang University, Computer Software (2017.03 ~ 2022.02)</li>
+  <li align ="center">Apgujeong CIT Coding Academy, Python Instructor (2019.06 ~ 2019.12)</li>
+  <li align ="center">Hanyang University, Computer Software B.S.(2017.03 ~ 2022.02)</li>
 </p>
      
 <!--
